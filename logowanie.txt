@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hasło: 12345
+=======
+hasło: 54321
+>>>>>>> eb17996 (Ustawienie hasla User_1)
+hasło: 55555
